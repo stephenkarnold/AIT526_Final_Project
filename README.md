@@ -1,1 +1,1 @@
-# Semeval_2023_Task_9
+# Semeval 2023 - Task 9 - Multilingual Tweet Intimacy Analysis
