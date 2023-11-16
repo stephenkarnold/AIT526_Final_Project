@@ -16,5 +16,5 @@ The second program is predicting the intimacy rating for all languages
 The third program is predicting the intimacy rating for each language individually
 </br>
 <br>
-The fourth program is predicting the intimacy rating using the intimacy rating using pre-trained models. I would recommend running the fourth program on Google Colab as the kernel kept crashing when running it on jupyter notebook. Make sure you are using the T4 GPU as the hardware accelerator.
+The fourth program is predicting the intimacy rating using pre-trained models. I would recommend running the fourth program on Google Colab as the kernel kept crashing when running it on jupyter notebook. Make sure you are using the T4 GPU as the hardware accelerator.
 </br>
