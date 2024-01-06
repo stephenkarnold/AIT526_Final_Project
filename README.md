@@ -2,6 +2,7 @@
 
 <br>
 This project aims to predict the intimacy rating of tweets in 10 different languages. Machine learning models like SVM and pre-trained models from Hugging Face were used to predict the intimacy rating.
+<br>
 
 <br>
 There are 4 programs (ipynb files) 
